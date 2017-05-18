@@ -10,14 +10,14 @@
 	<artifactId>market-tax</artifactId>
 	<name>market-tax</name>
 	<packaging>jar</packaging>
-	<version>1.0.0</version>
+	<version>1.0.1</version>
 	<properties>
 	</properties>
 	<dependencies>
 		<dependency>
 			<groupId>com.bakerbeach.market</groupId>
 			<artifactId>market-tax-api</artifactId>
-			<version>1.0.0</version>
+			<version>[1.0.1]</version>
 		</dependency>
 	</dependencies>
 	<build>
